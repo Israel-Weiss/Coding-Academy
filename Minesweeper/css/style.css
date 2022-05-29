@@ -1,0 +1,62 @@
+table {
+    margin: 20px;
+    background-color: rgb(200, 32, 32);
+
+}
+
+.cell {
+    height: 25px;
+    width: 25px;
+    text-align: center;
+    font-size: large;
+    color: rgb(236, 227, 227);
+    background-color: rgb(19, 17, 17);
+}
+
+.cell span {
+    height: 25px;
+    display: none;
+    background-color: blue;
+}
+
+.cell img {
+    width: 25px;
+    height: 23px;
+    margin: auto;
+}
+
+.button {
+    margin: 5px;
+}
+
+.gameover {
+    font-size: 50px;
+    display: none;
+    color: yellow;
+    background-color: red;
+}
+
+.win {
+    font-size: 50px;
+    display: none;
+    color: rgb(4, 238, 47);
+    background-color: rgb(69, 42, 206);
+}
+
+.smiley-1 {
+    font-size: 40px;
+    margin-left: 80px;
+    display: none;
+}
+
+.smiley-2 {
+    font-size: 40px;
+    margin-left: 80px;
+    display: none;
+}
+
+.smiley-3 {
+    font-size: 40px;
+    margin-left: 80px;
+    display: none;
+}
